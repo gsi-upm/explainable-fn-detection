@@ -1,1 +1,15 @@
-data
+data/dic
+data/old
+data/processed
+data/raw
+data/wf
+__pycache__
+cache_dir
+catboost_info
+outputs
+runs
+FeatureAnalysis.ipynb
+MLTrainingLogReg.ipynb
+old_MLTraining.ipynb
+BERTResults.ipynb
+
