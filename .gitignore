@@ -12,4 +12,8 @@ FeatureAnalysis.ipynb
 MLTrainingLogReg.ipynb
 old_MLTraining.ipynb
 BERTResults.ipynb
-
+ml/final_datasets
+ml/trained_models
+BestModelTrainingAllDatasets.ipynb
+BestModelTrainingKaggle.ipynb
+BestModelTrainingSatirical.ipynb
